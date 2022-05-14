@@ -1,0 +1,7 @@
+Book author 1960
+Ukraine Bandera 1930
+MeinKampf Hitler 1930
+Book second_author 1960
+Kill_Russians Bandera 1932
+Kill_Russians Bandera 1960
+Kill_Russians_vol_2 Bandera 1964
