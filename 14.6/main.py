@@ -6,7 +6,6 @@
 що вибувають, при заданих n та m.
 """ 
 from collections import deque
-from ctypes import pointer
 
 
 def main():
